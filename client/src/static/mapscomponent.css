@@ -1,0 +1,43 @@
+.Maps-Main{
+
+    height: 90vh;
+    width: 65vw;
+    display: flex;
+    align-items: center;
+}
+
+.Maps-left{
+    width: 65vw;
+    height: 75vh;
+    margin-left: 2.5vw;
+    margin-right: 3vw;
+    display: flex;
+    justify-content: center;
+}
+
+.Maps-right{
+
+    width: 20vw;
+    height: 93vh;
+    background-color:#fefefe;
+}
+
+
+.CombinedMap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.map-selector{
+    display: flex;
+    align-items: flex-end;
+    height:3vh ;
+}
+.map-top
+{
+    margin-top: 3vh;
+    width: 80vw;
+
+}
