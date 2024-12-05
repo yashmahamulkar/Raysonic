@@ -76,6 +76,6 @@ export default API_BASE_URL;
 ---
 
 
-## UI 
+## User Interface
 
 ![Project Logo](./client/ui.png "My Project Logo")
